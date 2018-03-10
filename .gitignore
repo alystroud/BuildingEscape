@@ -1,0 +1,13 @@
+#Ignoring Unreal Generated File#
+################################
+BuildingEscape2/Binaries
+BuildingEscape2/Build
+BuildingEscape2/DerivedDataCache
+BuildingEscape2/Intermediate
+BuildingEscape2/Saved
+BuildingEscape2/Content/StarterContent/
+BuildingEscape2/.DS_Store
+BuildingEscape/*
+Section_1/*
+BuildingEscape-WRONG/*
+.DS_Store
